@@ -52,7 +52,7 @@ This project is a MySQL-based backend database design for an online food deliver
    mysql -u root -p < schema.sql
    mysql -u root -p < sample_data.sql
    ```
-3. Run queries from `feature_queries.sql` as needed.
+3. Run queries from `queries.sql` as needed.
 
 # Example Queries
 
@@ -84,5 +84,5 @@ Given in the file structure
 # Author
 
 **Name:** Advika Nagool 
-**Email:**advikanagool15@gmail.com
+**Email:** advikanagool15@gmail.com
 **GitHub:** https://github.com/addz9015

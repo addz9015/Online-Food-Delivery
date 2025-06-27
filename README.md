@@ -1,7 +1,5 @@
 # Online Food Delivery
 
-# Online Food Delivery Platform – MySQL Project
-
 This project is a MySQL-based backend database design for an online food delivery platform. It includes schema design, sample data, and feature-specific SQL queries to simulate the core functionality of real-world food ordering systems like Swiggy, Uber Eats, or Zomato.
 
 # Contents
